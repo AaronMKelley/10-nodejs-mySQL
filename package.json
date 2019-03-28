@@ -1,0 +1,24 @@
+{
+  "name": "H12-mySQL",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bazmon_customer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AaronMKelley/12-nodejs-mySQL.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AaronMKelley/12-nodejs-mySQL/issues"
+  },
+  "homepage": "https://github.com/AaronMKelley/12-nodejs-mySQL#readme",
+  "dependencies": {
+    "inquirer": "^6.2.2",
+    "mysql": "^2.16.0"
+  }
+}
