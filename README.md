@@ -12,7 +12,8 @@ This application is a mock Amazon store that allows for different functions base
 # Bamazon Customer Mode 
 The first use of the application is from the customers point of view. From here they can view products, decide what they want to buy, how many and what their total will be. 
 
-     When a user first runs the application they will be presented with a table of the available products, their respective departments, their price, and how many are in stock. 
+     When a user first runs the application they will be presented with a table of the available 
+     products, their respective departments, their price, and how many are in stock. 
      ![node] bamazon 
      
       Next they are prompted to pick a product based on its ID #. 
