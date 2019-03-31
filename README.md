@@ -32,7 +32,7 @@ The first use of the application is from the customers point of view. From here 
       If you attempt to add more into your cart than there are in stock you will be shown this message. 
    ![node](https://raw.githubusercontent.com/AaronMKelley/12-nodejs-mySQL/master/assets/Run%20Bamazon-06.png)
 
-#Bamazon Manager Mode 
+# Bamazon Manager Mode 
  The second application allows you to control the functions of the manager. From here you can view the products for sale, view low inventory, add to the inventory of a product, and add all the details of an entirely new product. 
       
     When a user first runs the application (' node bamazon_manager.js') they will be presented with four menu options as detailed below. 
