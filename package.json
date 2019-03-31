@@ -18,7 +18,8 @@
   },
   "homepage": "https://github.com/AaronMKelley/12-nodejs-mySQL#readme",
   "dependencies": {
-    "inquirer": "^6.2.2",
-    "mysql": "^2.16.0"
+    "console.table": "0.10.0",
+    "inquirer": "6.2.2",
+    "mysql": "2.16.0"
   }
 }

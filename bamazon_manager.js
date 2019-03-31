@@ -9,7 +9,7 @@ var connection = mysql.createConnection({
     database : 'bamazon'
   });
  
-managerMode()
+managerMode();
 
   function managerMode(){
   connection.connect(function(error){
@@ -23,7 +23,7 @@ managerMode()
     {
      type: "checkbox",
      name:"addition",
-     message: "Menu Options",
+     message: "Manager Menu Options",
      choices:[
          {name:"View Products for Sale", value:1},
          {name:"View Low Inventory", value:2},
