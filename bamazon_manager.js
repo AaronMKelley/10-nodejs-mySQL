@@ -44,7 +44,9 @@ managerMode()
         console.log("Product ID: "+results[i].id+ "| "+
         "Product: "+results[i].product_name+"| "+
         "Department: "+results[i].department_name+"| "+
-        "Price: "+results[i].price);
+        "Price: "+results[i].price)+"| "+
+        "Stock "+results[i].stock_quantity;
+        
  }
     
  /*show products if their inventory is less then */   
